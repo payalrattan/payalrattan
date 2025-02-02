@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## about cat
+
+I am ginger
+
+![cat](./images/cat.jpeg)
+g
+
 <!--
 **payalrattan/payalrattan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
