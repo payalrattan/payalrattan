@@ -6,7 +6,11 @@ I am ginger
 
 ![cat](./images/cat.jpeg)
 
-
+<!-- New changes -->
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 <!--
 **payalrattan/payalrattan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
